@@ -12,3 +12,17 @@ Line with a footnote [^1]
 
 
 ...friday...
+
+
+
+
+
+
+
+
+
+
+
+
+
+...added from ldc late friday...
