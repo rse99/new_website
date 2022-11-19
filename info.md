@@ -9,3 +9,20 @@ Line with a footnote [^1]
 ...error text...
 
 ...even more error text...
+
+
+...friday...
+
+
+
+
+
+
+
+
+
+
+
+
+
+...added from ldc late friday...
