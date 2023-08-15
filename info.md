@@ -14,3 +14,6 @@ Line with a footnote [^1]
 sdofjsdfjldfj{
 
 edit tuesday
+
+
+edits that should be attributed to local git credentials
